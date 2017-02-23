@@ -6,7 +6,7 @@ cover {
     width: 100%;
 }
 
-navigation {
+Navigation {
     background-color: (0, 0, 0, 0.5);
     position: fixed;
     text-align: center;
