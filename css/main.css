@@ -1,3 +1,10 @@
+cover{
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
