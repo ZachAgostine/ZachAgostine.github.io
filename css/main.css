@@ -1,11 +1,12 @@
-img.cover {
+cover {
+    background: url("http://orig13.deviantart.net/56dd/f/2014/100/d/6/low_poly_mountain_by_jokerism-d7dvrhv.jpg" no-repeat center bottom);
     background-size: cover;
     background-attachment: fixed;
     position: relative;
     width: 100%;
 }
 
-ul.navigation {
+navigation {
     background-color: (0, 0, 0, 0.5);
     position: fixed;
     text-align: center;
