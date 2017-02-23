@@ -5,6 +5,13 @@
     width: 100%;
 }
 
+.navigation {
+    background-color: (0, 0, 0, 0.5);
+    position: fixed;
+    text-align: center;
+    width: center;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
