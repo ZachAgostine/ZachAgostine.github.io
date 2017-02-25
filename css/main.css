@@ -9,12 +9,15 @@ head {
     z-index: 1000;
 }
 
-li {
-    display: inline;
+ul {
     list-style-type: none;
-    
+    background-color: #333;
 }
 
+li {
+    display: block;
+    list-style-type: none;
+    text-align: center;    
 }
 
 h1 {
@@ -22,10 +25,6 @@ h1 {
     text-align: center;
     font-family: "arial";
     font-size: 64px;
-}
-
-h2 {
-    
 }
 
 body {
