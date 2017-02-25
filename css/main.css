@@ -9,18 +9,22 @@ head {
     z-index: 1000;
 }
 
-Navigation {
-    background-color: (0, 0, 0, 0.5);
-    position: fixed;
-    text-align: center;
-    width: center;
+li {
+    display: inline;
+    list-style-type: none;
+    
+}
+
 }
 
 h1 {
     color: white;
     text-align: center;
-    font-family: "arial", "sans-serif";
-    font-size: 72px;
+    font-family: "arial";
+    font-size: 64px;
+}
+
+h2 {
     
 }
 
@@ -28,4 +32,5 @@ body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
     background-repeat: no-repeat;
     background-position: center top;
+    opacity: 0.7;
 }
