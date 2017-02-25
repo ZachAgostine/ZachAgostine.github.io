@@ -1,9 +1,12 @@
-cover {
-    background: url("http://orig13.deviantart.net/56dd/f/2014/100/d/6/low_poly_mountain_by_jokerism-d7dvrhv.jpg" no-repeat center bottom);
-    background-size: cover;
-    background-attachment: fixed;
-    position: relative;
+.header{
+    background-color: #466995;
+    border-bottom: 1px solid #466995;
+    overflow-y: auto;
     width: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 1000;
 }
 
 Navigation {
