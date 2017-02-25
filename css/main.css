@@ -28,7 +28,7 @@ navigation {
     left: 0;
     top: 0;
     text-align: center;
-    width: 100%;
+    width: 200px;
     z-index: 10000;
 }
 
@@ -43,7 +43,7 @@ h2 {
     color: white;
     text-align: center;
     font-family: "arial";
-    font-size: 54;
+    font-size: 64;
 }
 
 p {
@@ -57,7 +57,14 @@ intro {
     border: 25px solid black;
     padding: 25px;
     margin: 25px;
-    background-color: rgba(169, 169, 169, 0.4)
+}
+
+box {
+    width: 300px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+    color: rgba(169, 169, 169, 0.5)
 }
 
 body {
