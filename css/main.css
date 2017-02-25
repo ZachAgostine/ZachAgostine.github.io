@@ -1,4 +1,4 @@
-.header{
+header{
     background-color: #466995;
     border-bottom: 1px solid #466995;
     overflow-y: auto;
@@ -7,6 +7,10 @@
     left: 0px;
     top: 0px;
     z-index: 1000;
+}
+
+cover{
+    background-image: url("http://bestdealdepot.com/data/lowpoly/cinema.png");
 }
 
 Navigation {
