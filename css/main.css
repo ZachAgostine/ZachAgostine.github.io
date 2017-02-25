@@ -41,26 +41,18 @@ p {
     font-family: "arial";
 }
 
-intro {
-    height: 400px;
-	width: 50%;
-	background-color: rgba(169, 169, 169, 0.7);
-    width: 300px;
-    border: 25px solid black;
-    padding: 25px;
-    margin: 25px;
-}
-
-box {
-    width: 300px;
-    border: 25px solid black;
-    padding: 25px;
-    margin: 25px;
-    color: rgba(169, 169, 169, 0.5)
-}
-
-body {
+head {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
     background-repeat: no-repeat;
     background-position: center top;
+}
+
+div {
+	height: 400px;
+	width: 50%;
+	background-color: rgba(169, 169, 169, 0.7);
+   	width: 300px;
+    	border: 25px solid black;
+    	padding: 25px;
+    	margin: 25px;
 }
