@@ -17,8 +17,11 @@ Navigation {
 }
 
 h1 {
-    color: red;
+    color: gray;
     text-align: center;
+    font-family: "arial", "sans-serif", 
+    font-size: 72px;
+    
 }
 
 body {
