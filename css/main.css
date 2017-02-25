@@ -47,12 +47,11 @@ body {
     background-position: center top;
 }
 
-div {
+content {
 	height: 400px;
 	width: 50%;
 	background-color: rgba(169, 169, 169, 0.7);
-   	width: 300px;
-    	border: 25px solid black;
+   	border: 5px solid black;
     	padding: 25px;
     	margin: 25px;
 }
