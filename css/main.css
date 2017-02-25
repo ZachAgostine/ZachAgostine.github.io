@@ -54,4 +54,5 @@ content {
 	border-color: blue;
 	background-color: rgba(169, 169, 169, 0.7);
     	padding: 10px;
+	word-wrap: break-word;
 }
