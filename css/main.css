@@ -20,3 +20,9 @@ h1 {
     color: red;
     text-align: center;
 }
+
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
