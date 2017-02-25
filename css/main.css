@@ -48,8 +48,9 @@ body {
 }
 
 content {
-	height: 400px;
+	height: 900px;
 	width: 50%;
+	background-size: cover;
 	background-color: rgba(169, 169, 169, 0.7);
    	border: 5px solid black;
     	padding: 25px;
