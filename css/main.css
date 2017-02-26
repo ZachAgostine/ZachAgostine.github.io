@@ -1,6 +1,6 @@
 body {
 	border: 1px solid green;
-	width: 500px;
+	max-width: 300px;
 	border-style: solid;
     	padding: 10px;
 	word-wrap: break-word;
