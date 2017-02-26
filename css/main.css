@@ -10,6 +10,12 @@
 	margin: auto;
 }
 
+.ImgNavigation {
+	display: block;
+	height: 1000px;
+	width: 800px;
+}
+
 body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
     background-repeat: no-repeat;
