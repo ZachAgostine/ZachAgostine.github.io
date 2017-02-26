@@ -6,6 +6,7 @@ body {
 	word-wrap: break-word;
 	text-align: center;
 	background-color: pink;
+	float: center;
 }
 
 ul {
