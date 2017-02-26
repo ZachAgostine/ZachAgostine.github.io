@@ -1,4 +1,5 @@
 body {
+	display: block;
 	border: 1px solid green;
 	max-width: 1000px;
 	border-style: solid;
