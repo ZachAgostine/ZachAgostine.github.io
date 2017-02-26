@@ -1,3 +1,11 @@
+body {
+	border: 1px solid green;
+	width: 500px;
+	border-style: solid;
+    	padding: 10px;
+	word-wrap: break-word;
+}
+
 ul {
    	list-style-type: none;
     	background-color: #333;
@@ -20,14 +28,6 @@ navigation {
     text-align: center;
     width: 200px;
     z-index: 10000;
-}
-
-content {
-	border: 1px solid green;
-	width: 500px;
-	border-style: solid;
-    	padding: 10px;
-	word-wrap: break-word;
 }
 
 h1 {
