@@ -17,7 +17,27 @@ img {
 	max-height: 200px;
 }
 
+.image {
+	position: relative;
+	width: 100%;
+}
 
+h2 {
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+	
 body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
     background-repeat: no-repeat;
@@ -46,13 +66,6 @@ h1 {
     text-align: center;
     font-family: "arial";
     font-size: 64px;
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    font-family: "arial";
-    font-size: 64;
 }
 
 p {
