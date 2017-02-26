@@ -17,6 +17,31 @@ img {
 	max-height: 200px;
 }
 
+#container
+{
+    height:400px;
+    width:400px;
+    position:relative;
+}
+
+#image
+{    
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+#text
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}
+
 body {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
     background-repeat: no-repeat;
