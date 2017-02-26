@@ -1,9 +1,10 @@
 body {
 	border: 1px solid green;
-	max-width: 300px;
+	max-width: 1000px;
 	border-style: solid;
     	padding: 10px;
 	word-wrap: break-word;
+	text-align: center;
 }
 
 ul {
