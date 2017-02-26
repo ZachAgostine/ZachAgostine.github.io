@@ -1,5 +1,5 @@
 body {
-	display: inline;
+	display: block;
 	height: 1000px;
 	width: 600px;
 	border: 1px solid green;
@@ -17,7 +17,7 @@ ul {
 }
 
 li {
-    	display: block;
+    	display: inline;
     	list-style-type: none;
     	text-align: center;  
     	padding: 20px;
