@@ -29,8 +29,7 @@ p {
 }
 
 body {
-    background-repeat: no-repeat;
-	background-size: fill;
+    background-repeat: repeat;
 }
 
 ul {
