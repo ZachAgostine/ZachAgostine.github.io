@@ -30,6 +30,7 @@ p {
 
 body {
     background-repeat: no-repeat;
+	background-size: fill;
 }
 
 ul {
