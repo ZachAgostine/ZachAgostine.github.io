@@ -39,7 +39,7 @@ h2 span {
 }
 	
 body {
-    background-image: href="GreenJelly.jpg";
+    background-image: src="GreenJelly.jpg";
     background-repeat: no-repeat;
 }
 
