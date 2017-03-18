@@ -39,24 +39,21 @@ h2 span {
 }
 	
 body {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ca/af/19/caaf198372f936563d2198e22780131c.jpg");
+    background-image: href="GreenJelly.jpg";
     background-repeat: no-repeat;
-    background-position: center top;
-	background-attachment: fixed;
 }
 
 ul {
    	list-style-type: none;
-	text-align: center;
+	text-align: right;
 }
 
 li {
     	display: inline;
     	list-style-type: none;
-    	text-align: center;  
+    	text-align: right;  
     	padding: 20px;
 	margin: 0;
-	background-color: #dddddd;
 	font-family: "arial";
 	font-size: 20px;
 }
@@ -73,4 +70,14 @@ p {
     	text-align: center;
     	font-family: "arial";
 	overflow: auto;
+}
+
+#changeText {
+	display: block;
+	margin: auto;
+	width: 500px;
+	font-family: "arial";
+	font-size: 40px;
+	width: 50%;
+	text-align: center;
 }
