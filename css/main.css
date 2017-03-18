@@ -30,6 +30,8 @@ p {
 
 body {
 	background-image: url("/GreenJelly1920.jpg");
+	background-position: bottom left;
+	background-repeat: no-repeat;
 }
 
 ul {
