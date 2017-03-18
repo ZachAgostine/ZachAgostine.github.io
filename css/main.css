@@ -29,7 +29,8 @@ p {
 }
 
 body {
-    background-repeat: no-repeat;
+	background-image: url("GreenJelly.jpg");
+    	background-repeat: no-repeat;
 	background-position: bottom left;
 }
 
