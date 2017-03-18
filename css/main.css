@@ -29,7 +29,7 @@ p {
 }
 
 body {
-	background-image: url("http://imgur.com/a/7Q1YW");
+	background-image: url(http://imgur.com/a/7Q1YW);
     	background-repeat: no-repeat;
 	background-position: bottom left;
 }
