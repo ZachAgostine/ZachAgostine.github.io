@@ -2,31 +2,33 @@
 <html>
 <head>
 		<title>ZACtheDEV</title>
-		<link href="http://bestdealdepot.com/data/lowpoly/cinema.png" rel="stylesheet">
-		<link href="/css/main.css" rel="stylesheet" type="text/css">
+		<link href="GreenJelly" rel="stylesheet">
+		<link href="main.css" rel="stylesheet" type="text/css">
 </head>
 	
 <div class="navigation">
 	<ul>
 		<li><a href="/">Home</a></li>
 		<li><a href="/portfolio">Portfolio</a></li>
+		<li><a href="/IRL">IRL</a></li>
 		<li><a href="/about">About</a></li>
 		<li><a href="/resume">Resume</a></li>
+		<li><a href="/resume">Contact</a></li>
 	</ul>
 </div>
-
 <body>
-	<div class="test">
-	<h1>Zachary Q. Agostine</h1>
-	<h1>Software Developer</h1>
-	<p>Welcome to my portfolio.  Below you can find some of my latest projects.  Thanks for stopping by!</p>
-		<div class="image">
-			<img src="ZachAgostine.github.io/Untitled.png">
-			<h2><span>Projects</span></h2>
-		</div>
-	<img src="https://cdn1.unrealengine.com/Orion/3309957/facebook_ob_image-a21d50464bc5ba74292634bc2d991987.jpg">
-	<img src="https://cdn1.unrealengine.com/Orion/3309957/facebook_ob_image-a21d50464bc5ba74292634bc2d991987.jpg">
-			
-</div>
+	<div id="changeText" >
+    <script type="text/javascript">
+    var text = ["Developer.", "Game Designer.", "Goofball.", "Producer.", "Photographer.", "Craftsman.", "Software Designer.", "Battle Mage.", "Adventurer."];
+    var counter = 0;
+    var elem = document.getElementById("changeText");
+    setInterval(change, 1500);
+    function change() {
+     elem.innerHTML = text[counter];
+        counter++;
+        if(counter >= text.length) { counter = 0; }
+    }
+    </script>
+	</div>
 </body>
 </html>
