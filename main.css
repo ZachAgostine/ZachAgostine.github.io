@@ -21,3 +21,9 @@ body {
   background-position: bottom left;
   background-size: contain;
 }
+
+.changeText {
+  text-align: center;
+  margin: auto;
+  width: 50%
+}
