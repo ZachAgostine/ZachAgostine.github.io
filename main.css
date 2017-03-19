@@ -10,7 +10,7 @@
 }
 
 .navigation li {
-  display: inline;
+  display: block;
   padding: 8px;
   float: right;
 }
