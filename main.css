@@ -11,4 +11,6 @@
 
 .navigation li {
   display: inline;
+  padding: 8px;
+  float: right;
 }
