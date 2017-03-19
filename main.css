@@ -1,3 +1,4 @@
-p {
-  font-size: 512px;
+.navigation {
+  display: inline;
+  text-align: right;
 }
