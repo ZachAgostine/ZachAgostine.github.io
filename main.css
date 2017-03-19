@@ -22,8 +22,7 @@ body {
   background-size: contain;
 }
 
-.changeText {
+#changeText {
   text-align: center;
   margin: auto;
-  width: 50%
 }
