@@ -14,3 +14,9 @@
   padding: 8px;
   float: right;
 }
+
+body {
+  background-image: url("/GreenJelly1920");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
