@@ -16,9 +16,11 @@
 }
 
 body {
-  background-image: url("/GreenJelly1920.jpg");
-  background-size: inherit;
+  background-color: rgb(49, 119, 142);
+  background-image: url("/BW.png");
+  background-size: 50%;
   background-repeat: no-repeat;
+  background-position: center right;
 }
 
 #changeText {
