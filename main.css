@@ -17,7 +17,8 @@
 
 body {
   background-image: url("/GreenJelly1920.jpg");
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 #changeText {
