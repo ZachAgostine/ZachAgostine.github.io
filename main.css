@@ -9,6 +9,10 @@
   color: white;
 }
 
+.logo {
+  width: 50%;
+}
+
 .navigation li {
   display: block;
   padding: 8px;
