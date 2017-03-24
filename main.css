@@ -17,7 +17,7 @@
 
 body {
   background-image: url("/GreenJelly1920.jpg");
-  background-size: auto;
+  background-size: inherit;
   background-repeat: no-repeat;
 }
 
