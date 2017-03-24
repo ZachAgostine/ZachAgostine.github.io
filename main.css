@@ -19,7 +19,7 @@ body {
   background-color: rgb(49, 119, 142);
   background-image: url("/BW.png");
   background-size: 25%;
-  background-position: right;
+  background-position: bottom right;
   background-repeat: no-repeat;
 }
 
