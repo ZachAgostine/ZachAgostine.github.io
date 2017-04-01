@@ -29,6 +29,7 @@ img {
   text-align: center;
   width: 100%;
   z-index: 10000;
+  list-style-type: none;
 }
 
 #logo {
