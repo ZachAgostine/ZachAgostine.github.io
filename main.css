@@ -21,9 +21,9 @@ img {
 }
 
 .navigation li {
-  display: block;
+  display: inline;
   padding: 8px;
-  float: right;
+  text-align: right;
   padding-top: 20px;
 }
 
