@@ -31,6 +31,13 @@ img {
   z-index: 10000;
 }
 
+#logo {
+  color: #FCA311;
+  font-family: 'Amatic SC', cursive;
+  font-size: 32px;
+  padding: 0px 50px;
+}
+
 body {
   background-color: rgb(49, 119, 142);
 }
