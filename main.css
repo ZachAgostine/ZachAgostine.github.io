@@ -13,6 +13,13 @@ img {
   width: 300px;
 }
 
+.logo img {
+  width 300px;
+  margin: auto;
+  display: inline;
+  padding: 10px;
+}
+
 .navigation li {
   display: block;
   padding: 8px;
