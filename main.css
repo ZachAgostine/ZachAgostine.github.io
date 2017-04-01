@@ -14,9 +14,9 @@ img {
 }
 
 .logo img {
-  width 300px;
+  width 50%;
   margin: auto;
-  display: inline;
+  display: block;
   padding: 10px;
 }
 
