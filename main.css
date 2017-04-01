@@ -29,10 +29,6 @@ img {
 
 body {
   background-color: rgb(49, 119, 142);
-  background-image: url("/BW.png");
-  background-size: 50%;
-  background-position: top right;
-  background-repeat: no-repeat;
 }
 
 #changeText {
