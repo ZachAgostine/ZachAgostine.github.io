@@ -66,6 +66,6 @@ body {
 
 	#header, #footer {
 		width:100%;
-		float:left;
+		float:center;
 		background-color: rgba(255, 255, 255, 0.6);
 	}
