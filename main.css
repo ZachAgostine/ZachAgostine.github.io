@@ -11,17 +11,7 @@ img {
   padding: 10px;
 }
 
-	.wrap {
-		position:relative;
-		margin:0 auto;
-		width:100%;
-	}
-
-	#header, #footer {
-		width:100%;
-		float:left;
-		background-color: rgba(255, 255, 255, 0.6);
-	}
+	
 
 /* Navigation */
 
@@ -52,3 +42,15 @@ li a:hover {
 body {
   background-color: rgb(49, 119, 142);
 }
+
+.wrap {
+		position:relative;
+		margin:0 auto;
+		width:1000px;
+	}
+
+	#header, #footer {
+		width:100%;
+		float:left;
+		background-color: rgba(255, 255, 255, 0.6);
+	}
