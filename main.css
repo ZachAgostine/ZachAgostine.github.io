@@ -26,6 +26,11 @@ ul {
 li {
     float: center;
     display: inline;
+	font-size: 30px;
+	font-family: "Raleway";
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left, right: 20px;
 }
 
 li a {
@@ -37,6 +42,15 @@ li a {
 
 li a:hover {
     color: rgb(255, 255, 255);
+}
+
+#logo li {
+	color: Orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size: 40px;
+	font-family: "Indie Flower";
 }
 
 body {
