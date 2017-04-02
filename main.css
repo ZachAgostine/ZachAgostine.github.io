@@ -38,11 +38,12 @@ li {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	font-size: 40px;
+	font-size: 45px;
 	font-family: "Indie Flower";
 }
 
 li a {
+	color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
