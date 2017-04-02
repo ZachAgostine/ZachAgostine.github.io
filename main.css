@@ -33,6 +33,15 @@ li {
 	padding-left, right: 30px;
 }
 
+#logo {
+	color: Orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size: 40px;
+	font-family: "Indie Flower";
+}
+
 li a {
     color: black;
     text-align: center;
@@ -42,15 +51,6 @@ li a {
 
 li a:hover {
     color: rgb(255, 255, 255);
-}
-
-#logo {
-	color: Orange;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-	font-size: 40px;
-	font-family: "Indie Flower";
 }
 
 body {
