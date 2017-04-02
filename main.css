@@ -26,7 +26,7 @@ ul {
 li {
     float: center;
     display: inline;
-	font-size: 30px;
+	font-size: 20px;
 	font-family: "Raleway";
 	padding-top:20px;
 	padding-bottom:20px;
@@ -34,12 +34,12 @@ li {
 }
 
 #logo {
-	color: Orange;
+	color: rgb(252, 163, 17);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	font-size: 45px;
-	font-family: "Indie Flower";
+	font-size: 55px;
+	font-family: "Macondo";
 }
 
 li a {
