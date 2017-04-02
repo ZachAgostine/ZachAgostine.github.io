@@ -15,12 +15,12 @@ img {
 		position:relative;
 		margin:0 auto;
 		width:100%;
-		background-color: rgba(255, 255, 255, 0.6);
 	}
 
 	#header, #footer {
 		width:100%;
 		float:left;
+		background-color: rgba(255, 255, 255, 0.6);
 	}
 
 /* Navigation */
