@@ -28,9 +28,9 @@ li {
     display: inline;
 	font-size: 30px;
 	font-family: "Raleway";
-	padding-top:10px;
-	padding-bottom:10px;
-	padding-left, right: 20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left, right: 30px;
 }
 
 li a {
@@ -44,7 +44,7 @@ li a:hover {
     color: rgb(255, 255, 255);
 }
 
-#logo {
+#logo li a {
 	color: Orange;
     text-align: center;
     padding: 14px 16px;
@@ -58,10 +58,11 @@ body {
 	margin: 0px;
 }
 
-.wrap {
+	.wrap {
 		position:relative;
 		margin:0 auto;
 		width:1000px;
+		text-align: center;
 	}
 
 	#header, #footer {
