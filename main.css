@@ -103,7 +103,7 @@ body {
 .about img {
 	margin: auto;
 	border-radius: 50%;
-	width: 50%;
+	width: 30%;
 	float: center;
 }
 
@@ -126,7 +126,7 @@ h4 {
 
 p {
 	padding-bottom: 20px;
-	padding-left, right: 15px;
+	padding-left, right: 25px;
 }
 
 
