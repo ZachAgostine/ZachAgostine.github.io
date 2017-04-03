@@ -87,11 +87,33 @@ body {
 	padding-top, bottom: 10px;
 }
 
+.about {
+	margin: auto;
+	display: block;
+	width: 75%;
+	background-color: rgba(255, 255, 255, 0.8);
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	text-align: center;
+	padding-top, bottom: 10px;
+}
 
+.cv {
+	margin: auto;
+	display: block;
+	width: 75%;
+	background-color: rgba(255, 255, 255, 0.8);
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	text-align: center;
+	padding-top, bottom: 10px;
+}
 
-
-
-
+h4 a {
+	display: inline-block;
+}
 
 
 
