@@ -60,6 +60,7 @@ li a:hover {
 		margin:0 auto;
 		width:1000px;
 		text-align: center;
+		float: center;
 	}
 
 	#header, #footer {
@@ -84,7 +85,7 @@ body {
 	border-color: white;
 	border-width: 2px;
 	text-align: center;
-	padding-top, bottom: 10px;
+	padding-top, bottom: 25px;
 }
 
 .about {
@@ -96,7 +97,7 @@ body {
 	border-color: white;
 	border-width: 2px;
 	text-align: center;
-	padding-top, bottom: 10px;
+	padding-top, bottom: 25px;
 }
 
 .cv {
@@ -108,7 +109,7 @@ body {
 	border-color: white;
 	border-width: 2px;
 	text-align: center;
-	padding-top, bottom: 10px;
+	padding-top, bottom: 25px;
 }
 
 h4 a {
