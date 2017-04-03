@@ -100,6 +100,13 @@ body {
 	padding-top, bottom: 25px;
 }
 
+.about img {
+	margin: auto;
+	border-radius: 50%;
+	width: 50%;
+	float: center;
+}
+
 .cv {
 	margin: auto;
 	display: block;
