@@ -8,7 +8,7 @@
       <ul>
         <li><a class="active" href="#home">Portfolio</a></li>
         <li><a class="active" href="#home">CV</a></li>
-        <li id="logo">Zach Agostine</li>
+        <li id="logo"><a class="active" href="#home">Zach Agostine</a></li>
         <li><a class="active" href="#home">About</a></li>
         <li><a class="active" href="#home">Contact</a></li>
     </ul>
@@ -16,17 +16,32 @@
   </div>
 </head>
 <body>
-  <h2>Send e-mail to someone@example.com:</h2>
+  <div class="contact">
+  <h2>Drop me a line!</h2>
 
-  <form action="mailto:someone@example.com" method="post" enctype="text/plain">
+  <form action="/action_page.php" method="post" enctype="text/plain">
   Name:<br>
   <input type="text" name="name"><br>
   E-mail:<br>
   <input type="text" name="mail"><br>
-  Comment:<br>
-  <input type="text" name="comment" size="50"><br><br>
+  Message:<br>
+  <input type="text" name="comment" size="350"><br><br>
+    <input type="radio" name="role" value="tank" checked> Tank<br>
+    <input type="radio" name="role" value="DPS"> DPS<br>
+    <input type="radio" name="role" value="support"> Support<br><br>  
   <input type="submit" value="Send">
   <input type="reset" value="Reset">
 </form>
+</div>
+    
+  
+  
+<div id="footer">
+          <div class="wrap">
+               <p>zach.agostine@gmail.com || /in/ZachAgostine || @zak_attaq</p>
+          </div>
+     </div>
+  
+  
 </body>
 </html>
