@@ -2427,6 +2427,7 @@
 			flex-direction: column;
 			
 			padding-left: 2em;
+			padding-right: 24px;
 		}
 
 			.thumbnails > div > :last-child {
